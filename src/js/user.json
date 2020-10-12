@@ -1,0 +1,17 @@
+{
+    "name": "Valen",
+    "email": "valennaura@gmail.com",
+    "phone": "08863526248",
+    "assigments": {
+        "1" : {
+            "title": "PWB",
+            "category": "Produktif",
+            "task": "REST API"
+        },
+        "2" : {
+            "title": "PPKN",
+            "category": "NA",
+            "task": "Merangkum"
+        }
+    }
+}
